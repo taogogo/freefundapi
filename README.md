@@ -15,6 +15,13 @@ http://go.taocms.org/fund/future.php?code=ag2106
 
 http://go.taocms.org/fund/sindex.php?code=VNI30
 
+
+## 虚拟币价格查询接口(code=btc，xrp，doge，eth)
+
+http://go.taocms.org/fund/vcoin.php?code=btc
+
+
+
 ## 最新版本参考：
 
 http://go.taocms.org/01/1757.htm
