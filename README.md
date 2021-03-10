@@ -20,7 +20,9 @@ http://go.taocms.org/fund/sindex.php?code=VNI30
 
 http://go.taocms.org/fund/vcoin.php?code=btc
 
+## 外汇价格查询接口(code=USD/VND，USD/CNY，CNY/USD，VND/USD，USD/JPY，USD/PHP，IDR/USD，USD/UAH，USD/THB)
 
+http://go.taocms.org/fund/quote.php?code=USD/VND
 
 ## 最新版本参考：
 
