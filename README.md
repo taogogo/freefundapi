@@ -7,6 +7,10 @@
 
 http://go.taocms.org/fund/valuation.php?code=160644
 
+## 基金申购赎回状态查询接口(code=基金编号)
+
+http://go.taocms.org/fund/fundstatus.php?code=001972
+
 ## 期货价格查询接口（code=白银期货【2106】 ag2106，白银期货【2112】ag2112，黄金期货【2106】au2106）
 
 http://go.taocms.org/fund/future.php?code=ag2106
